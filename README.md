@@ -5,8 +5,6 @@
 
 ## 1. Description 📖
 
-About the goal of this project:
-
 In this game players take turns dropping their pieces into one of seven columns that have six rows of slots. The first player to get their pieces into four slots that are vertically, horizontally, or diagonally contiguous wins the game. It follows these basic rules:
 
 1. The board has six rows and seven columns
